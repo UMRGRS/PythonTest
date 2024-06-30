@@ -1,0 +1,4 @@
+Try to guess the movie time!
+This movie is about a blue alien who's really bad at being bad, so he accidentally turns good, 
+but then he accidentally creates a super-villain who turns out to be not so villainous after all. 
+It's a story where the bad guy isn't really bad, and the good guy isn't exactly good either.
