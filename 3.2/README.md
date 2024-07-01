@@ -1,6 +1,6 @@
 ## 3.2 Explica qué son los módulos en Python y cómo se utilizan.
 Los módulos son archivos que contiene funcionalidad que deseamos incluir a nuestro código, pueden ser clases, funciones, sentencias, etc.
-Para incluir un modulo hacemos uso de la sentencia import como se muestra en el ejemplo.
+Para incluir un modulo hacemos uso de la sentencia `import` como se muestra en el ejemplo.
 ```python
 #3.2
 #Generador de números aleatorios
