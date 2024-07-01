@@ -50,3 +50,5 @@ def GetData():
         print(element)
     
     return data
+
+GetData()

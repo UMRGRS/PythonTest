@@ -4,8 +4,9 @@ En este ejemplo hago uso de la librería openpyxl para crear un archivo xlsx que
 la información recabada sobre mis asistencias proveniente del portal de mi universidad
 '''
 import openpyxl
+
 #Importamos la función GetData desde el ejemplo de selenium
-from selenium_attendance import GetData
+from sa import GetData
 
 data = GetData()
 
