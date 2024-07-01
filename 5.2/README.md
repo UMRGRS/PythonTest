@@ -1,5 +1,9 @@
 ## 5.2 ¿Qué función tiene la librería openpyxl en Python? Proporciona un ejemplo de cómo usarla para manipular una hoja de cálculo Excel.
 La función de openpyxl es leer y escribir archivos de Excel, por ejemplo, se pueden escribir funciones, formatear hojas de cálculo o construir gráficos.
+
+### Nota
+Este ejemplo requiere de una liberia y es recomendable el uso de un entorno virtual, para mas información consulta [instalación](https://github.com/UMRGRS/PythonTest/blob/main/README.md#instalaci%C3%B3n).
+
 ```python
 #5.2
 '''
