@@ -31,7 +31,8 @@ def GetData():
 
     driver.implicitly_wait(5)
 
-    table = driver.find_element(By.XPATH, '/html/body/div[7]/div/div/div[1]/div/div[2]/div/div[2]/div/div/div[2]/div/div/div[2]/table[2]')
+    table = driver.find_element(By.XPATH, '''/html/body/div[7]/div/div/div[1]/div/
+                                div[2]/div/div[2]/div/div/div[2]/div/div/div[2]/table[2]''')
 
     head = table.find_element(By.TAG_NAME, 'thead')
 
