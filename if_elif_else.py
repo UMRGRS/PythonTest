@@ -1,3 +1,4 @@
+#2.2
 #Modulo para generar números aleatorios
 import random as rand
 

@@ -1,3 +1,4 @@
+#3.2
 #Generador de números aleatorios
 import random as rand #Podemos importar los módulos con alias para hacer nuestro código mas legible
 #Funciones matemáticas

@@ -1,3 +1,4 @@
+#6.2
 #Imaginemos que desarrollamos un videojuego.
 #Todos los personajes tiene atributos y métodos comunes, 
 #por lo que creamos una clase como la siguiente.

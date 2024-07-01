@@ -1,3 +1,4 @@
+#1.2
 """
 Podemos usar indices negativos para facilitar multiples 
 tareas como renombrar archivos para darles un identificador

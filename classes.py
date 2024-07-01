@@ -1,3 +1,4 @@
+#6.1
 #Creamos la clase con la palabra clave class
 class VideoGame():
     #Definimos el constructor con los atributos de la clase
