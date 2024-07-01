@@ -2,7 +2,7 @@
 La principal función es automatizar pruebas de aplicaciones web o tareas repetitivas como rellenar formularios, hacer clics o navegar entre páginas.
 
 ### Nota
-Este ejemplo requiere de una liberia y es recomendable el uso de un entorno virtual, para mas información consulta [instalación](https://github.com/UMRGRS/PythonTest/blob/main/README.md).
+Este ejemplo requiere de una liberia y es recomendable el uso de un entorno virtual, para mas información consulta [instalación](https://github.com/UMRGRS/PythonTest/blob/main/README.md#instalaci%C3%B3n).
 
 ```python
 #5.1
