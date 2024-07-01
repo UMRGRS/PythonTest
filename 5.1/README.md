@@ -1,4 +1,4 @@
-## 5.1 ¿Cuál es la función principal de la librería selenium en Python? Proporciona unejemplo básico de cómo automatizar una tarea en un navegador web usando selenium.
+## 5.1 ¿Cuál es la función principal de la librería selenium en Python? Proporciona un ejemplo básico de cómo automatizar una tarea en un navegador web usando selenium.
 La principal función es automatizar pruebas de aplicaciones web o tareas repetitivas como rellenar formularios, hacer clics o navegar entre páginas.
 
 ### Nota
