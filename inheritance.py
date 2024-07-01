@@ -28,7 +28,7 @@ class Wizard(Character):
         
 #A partir de ahora todas las instancias de Wizard podrán utilizar los atributos y métodos de Character ademas de los propios
 
-blueWizard = Wizard(5,10,2,['Waterfall', 'Cast light',])
+blueWizard = Wizard(5, 10, 2, ['Waterfall', 'Cast light',])
 
 blueWizard.ShowStats()
 

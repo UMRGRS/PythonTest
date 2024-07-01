@@ -6,6 +6,7 @@ class VideoGame():
         self.name = name
         self.publisher = publisher
         self.year = year
+        
     #Podemos definir funciones para que todos los objetos creados las utilicen
     def PrintData(self):
         print('Nombre {}'.format(self.name))

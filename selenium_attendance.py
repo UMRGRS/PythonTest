@@ -3,6 +3,7 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
+#Llamando esta función se imprimen en consola los datos 
 def GetData():
     driver = webdriver.Firefox()
     driver.get("https://proyecta.utch.edu.mx/")
