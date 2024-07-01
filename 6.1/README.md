@@ -1,6 +1,6 @@
 ## 6.1 Explica qué es una clase en Python y cómo se define.
 Una clase es un tipo de plantilla o molde para crear objetos que contienen atributos y funcionalidad, pero cuyos valores pueden variar. 
-Una clase en Python se define con la palabra clave class seguida del nombre de la clase y dos puntos.
+Una clase en Python se define con la palabra clave `class` seguida del nombre de la clase y dos puntos.
 ```python
 #6.1
 #Creamos la clase con la palabra clave class
