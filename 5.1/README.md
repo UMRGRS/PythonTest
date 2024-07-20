@@ -23,8 +23,8 @@ def GetData():
     password = driver.find_element(By.ID, 'password')
     send_creds = driver.find_element(By.ID, 'login')
 
-    username.send_keys('1121150034')
-    password.send_keys('qxrvynilp')
+    username.send_keys('')
+    password.send_keys('')
     driver.implicitly_wait(5)
 
     send_creds.click()
